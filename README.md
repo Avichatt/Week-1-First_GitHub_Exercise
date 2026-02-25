@@ -22,6 +22,5 @@ This project provides a simple Python program to calculate **average** and **med
 ## 🚀 Usage
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/username/weather-stats.git
-   cd weather-stats
+https://github.com/Avichatt/Week-1-First_GitHub_Exercise
+
